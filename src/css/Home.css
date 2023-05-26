@@ -1,0 +1,25 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.Home_Box {
+  background-image: url("../images/backImages/backImg1.avif");
+  background-size: cover; /* 이미지를 비율 유지하며 화면에 꽉 차게 설정 */
+  background-position: center center; /* 이미지를 가운데에 위치시킴 */
+  background-repeat: no-repeat; /* 이미지 반복 없음 */
+  height: 100vh; /* 컴포넌트를 화면 전체 높이로 설정 */
+}
+
+.Home_Main_Title {
+  font-size: 25px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  position: relative;
+  top: 10px;
+  left: 10px;
+}
+
+.CM_CM {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 35px;
+}

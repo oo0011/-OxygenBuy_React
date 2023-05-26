@@ -1,0 +1,47 @@
+.box1 {
+  display: inline-block;
+}
+
+.name {
+  position: relative;
+  top: 40px;
+  left: 260px;
+}
+
+.hr {
+  position: relative;
+  top: 50px;
+  left: 160px;
+  width: 310px;
+  height: 5px;
+  background-color: darkslategray;
+}
+
+.Weather_Temp {
+  font-size: 200px;
+  font-weight: 100;
+  position: relative;
+  top: 40px;
+  left: 160px;
+}
+
+.Weather_Temp_Sub {
+  font-size: 80px;
+  position: relative;
+  top: -70px;
+  left: 170px;
+}
+
+.Weather_Main_Sub {
+  font-size: 25px;
+  position: relative;
+  top: 40px;
+  left: 130px;
+}
+
+.Weather_Main {
+  font-size: 25px;
+  position: relative;
+  top: 40px;
+  left: 140px;
+}

@@ -1,0 +1,29 @@
+.MyInfo_Box {
+  display: inline-block;
+  border-radius: 20px;
+  position: relative;
+  width: 600px;
+  height: 350px;
+  top: -620px;
+  left: 1250px;
+  background-color: rgba(223, 107, 107, 0.5); /* 원하는 배경색으로 변경 */
+}
+
+.MyInfo_Img {
+  border-radius: 30px;
+  position: relative;
+  width: 400px;
+  height: 250px;
+  top: 20px;
+  left: 100px;
+}
+
+.MyInfo_Button {
+  font-size: 25px;
+  background-color: rgba(223, 107, 107, 0.5); /* 원하는 배경색으로 변경 */
+  border: none;
+  border-radius: 5px;
+  position: relative;
+  top: 70px;
+  left: -135px;
+}

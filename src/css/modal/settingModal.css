@@ -1,0 +1,79 @@
+.SettingModal_Box {
+  z-index: 999;
+  border-radius: 8px;
+  position: relative;
+  top: -600px;
+  left: 200px;
+  width: 1000px;
+  height: 700px;
+  background-color: rgba(223, 107, 107, 0.911);
+}
+
+.SettingModal_Title {
+  font-size: 30px;
+  position: relative;
+  top: 30px;
+  text-align: center;
+}
+
+.SettingModal_Butotn_Box {
+  width: 1000px;
+  position: relative;
+  top: 60px;
+  text-align: center;
+}
+
+.SettingModal_BackImg_Button,
+.SettingModal_Tema_Button {
+  color: white;
+  font-size: 30px;
+  background-color: rgba(223, 107, 107, 0.911);
+  border: none;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.SettingModal_BackImg_Input1,
+.SettingModal_BackImg_Input2 {
+  width: 1000px;
+  text-align: center;
+  margin-bottom: -40px;
+}
+
+.SettingModal_BackImg_Input1 {
+  position: relative;
+  top: -80px;
+}
+.SettingModal_BackImg_Img1,
+.SettingModal_BackImg_Img2 {
+  width: 400px;
+  height: 200px;
+  position: relative;
+  top: 180px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.SettingModal_BackImg_Img3,
+.SettingModal_BackImg_Img4 {
+  width: 400px;
+  height: 200px;
+  position: relative;
+  top: 180px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.SettingModal_Close_Button {
+  color: white;
+  font-size: 30px;
+  background-color: rgba(223, 107, 107, 0.911);
+  border: none;
+  position: relative;
+  top: 235px;
+  left: 475px;
+}
+
+.hidden {
+  display: none;
+}

@@ -1,0 +1,27 @@
+.OxygenBuy_Box {
+  display: inline-block;
+  border-radius: 20px;
+  position: relative;
+  width: 600px;
+  height: 350px;
+  top: -375px;
+  left: 650px;
+  background-color: rgba(223, 107, 107, 0.5); /* 원하는 배경색으로 변경 */
+}
+
+.OxygenBuy_Img {
+  width: 30%;
+  position: relative;
+  top: 85px;
+  left: 80px;
+}
+
+.OxygenBuy_Button {
+  background-color: rgba(223, 107, 107, 0.5); /* 원하는 배경색으로 변경 */
+  border: none;
+  border-radius: 10px;
+  font-size: 50px;
+  position: relative;
+  top: 100px;
+  left: 140px;
+}

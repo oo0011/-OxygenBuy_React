@@ -1,0 +1,25 @@
+.Setting_Box {
+  border-radius: 20px;
+  position: relative;
+  width: 300px;
+  height: 350px;
+  top: 130px;
+  left: 160px;
+  background-color: rgba(223, 107, 107, 0.5); /* 원하는 배경색으로 변경 */
+}
+.Setting_Img {
+  width: 60%;
+  position: relative;
+  top: 70px;
+  left: 63px;
+}
+
+.Setting_Title {
+  font-size: 25px;
+  background-color: rgba(223, 107, 107, 0.5); /* 원하는 배경색으로 변경 */
+  border: none;
+  border-radius: 5px;
+  position: relative;
+  top: 110px;
+  left: -80px;
+}
